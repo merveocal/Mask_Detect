@@ -1,4 +1,4 @@
-#  Gerçek Zamanlı Maske Tespiti (Ağız Tabanlı)
+#  Gerçek Zamanlı Maske Tespiti
 
 Bu proje, **Python** ve **OpenCV** kullanılarak geliştirilen basit ve etkili bir **maske tespit sistemi**dir. Uygulama, kamera görüntüsünde insan yüzlerini tespit eder ve bu yüzlerde ağız tespitine göre kişinin maske takıp takmadığını belirler.
 
@@ -6,7 +6,7 @@ Bu proje, **Python** ve **OpenCV** kullanılarak geliştirilen basit ve etkili b
 
 ##  Özellikler
 
-- 📷 Gerçek zamanlı kamera görüntüsü üzerinden:
+-  Gerçek zamanlı kamera görüntüsü üzerinden:
   - Yüz tespiti
   - Ağız tespiti
   - Maske takılıysa: "Thank you" yeşil yazı ile
